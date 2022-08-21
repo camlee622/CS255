@@ -1,2 +1,10 @@
 # CS255
 System Analysis and Design
+
+The driver pass project was an application to help serve people that were getting prepared to take their drivers license test. The client was DriverPass. They wanted a system that allowed users to create appointments for their instructors to help the customer with certain driving tests. Within the application, they could also see test progress, update their personal information, post driver notes, among other things. 
+
+I think the thing I did best with this project is the organization of the information, as well as designing a few of the UML diagrams. I think that the diagrams are a great way to organize the information that will be used within the application. I would definitely like to revise my use case diagram. After comparing my own to others in the class, I feel like that's somethiong that I fell short on and could have improved by adding more use cases and actors within the system. 
+
+I think it's very crucial to interpret the users needs when designing an application. Ultimately, they are the ones who will use the application the most and (hopefully) give the company revenue. That means that it's important to consider their needs and cater to them that way they are satisfied with your product. I interpreted them by reviewing the interview transcript with the DriverPass founders and noting down their expectations, as well as putting myself in the shoes of a user and how I would like to use this application if I were in the need for it.
+
+I think the most important strategy that I use when designing software is to, like I mentioned before, put some different perspectives on it to see the project from different angles. The angle of the administrator, the DriverPass founders, and the user all help create a well-rounded application that serves everyone best. I think an important step in this process is to take each step one a a time. Designing the diagrams one by one and gaining different perspectives on the development side is important and helps paint the picture of what the end-goal application is.
